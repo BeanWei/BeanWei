@@ -1,4 +1,9 @@
-![Hi there 👋] (https://images.unsplash.com/photo-1593462131651-9f3d58eecd9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1655&q=80)
+<h1 align="center">If You Do Not Program Yourself Life Will Program You!</h1>
+<div align="center">
+<a href="https://mdnice.com">
+<img width="100%" src="https://images.unsplash.com/photo-1593462131651-9f3d58eecd9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1655&q=80"/>
+</a>
+</div>
 
 <!--
 **BeanWei/BeanWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
