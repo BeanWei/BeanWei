@@ -1,9 +1,6 @@
 <h1 align="center">If You Do Not Program Yourself Life Will Program You!</h1>
-<div align="center">
-<a href="https://mdnice.com">
-<img width="100%" height="390px" src="https://cdn.pixabay.com/photo/2019/09/05/05/28/eye-4453129__480.jpg"/>
-</a>
-</div>
+
+[![BeanWei's github stats](https://github-readme-stats.vercel.app/api?username=BeanWei)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BeanWei/BeanWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
