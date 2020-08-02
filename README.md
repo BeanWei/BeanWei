@@ -1,14 +1,10 @@
 <h1 align="center">If You Do Not Program Yourself Life Will Program You!</h1>
 
-[![BeanWei's github stats](https://github-readme-stats.vercel.app/api?username=BeanWei)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeanWei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=BeanWei" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeanWei&layout=compact" />
+  <img align="left" style="height: 196px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeanWei&layout=compact" />
 </a>
 
 <!--
