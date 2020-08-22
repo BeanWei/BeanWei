@@ -1,11 +1,7 @@
-<h1 align="center">If You Do Not Program Yourself Life Will Program You!</h1>
+### If You Do Not Program Yourself Life Will Program You!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=BeanWei" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeanWei&layout=compact" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeanWei&hide=html)
+![BeanWei's github stats](https://github-readme-stats.vercel.app/api?username=BeanWei&show_icons=true&count_private=true&line_height=40)
 
 <!--
 **BeanWei/BeanWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
